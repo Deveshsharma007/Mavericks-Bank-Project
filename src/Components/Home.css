@@ -1,0 +1,80 @@
+.home-container{
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 250vh;
+}
+.home-about{
+    color: white;
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    margin-top: 15%;
+    align-items: flex-start;
+    justify-content: center;
+}
+.home-features{
+    margin-top: 13%;
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+}
+.home-features-data{
+display: inline-block;
+
+}
+.feature-cards{
+    display: flex;
+    margin-left: 3%;
+}
+.card-container{
+margin-inline-end: 7%;
+height: auto;
+
+}
+.card1{
+    margin-top: 70px;
+    margin-inline: 9%;
+    width: auto;
+}
+.card2{
+    margin-top: 70px;
+    margin-inline: 9%;
+    width: auto;
+}
+.card3{
+    margin-top: 70px;
+    margin-inline: 9%;
+    width: auto;
+}
+.card4{
+    margin-top: 70px;
+    margin-inline: 9%;
+    width: auto;
+}
+.home-register{
+    margin-top: 15%;
+}
+.home-questions{
+    background-color: #566822;
+    margin-top: 15%;
+	display: flex;
+    flex-direction: row;
+    padding-top: 1%;
+}
+.home-questions-left{
+    text-align: left;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.home-questions-right{
+    display: flex;
+    float: right;
+    margin-left: 20%;
+}
+.right{
+    text-align: left;
+}
+

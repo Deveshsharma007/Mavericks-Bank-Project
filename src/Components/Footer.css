@@ -1,0 +1,11 @@
+.footer{
+    position: var(--footer-position, fixed);
+    bottom: var(--footer-bottom, 0);
+    left: var(--footer-left, 0);
+    right: var(--footer-right, 0);
+    text-align: var(--footer-text-align, center);
+    padding: var(--footer-padding, 10px);
+    background-color: var(--footer-bg-color, #2f6348);
+    color: var(--footer-text-color, #fff);
+    margin-top: auto;
+}

@@ -1,0 +1,65 @@
+.employee-dash{
+    color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+}
+.account-details{
+    background-color: #566822;
+    color: white;
+    width: min-content;
+    margin-top: 40px;
+    display: inline-block;
+    justify-content: center;
+    margin-bottom: 7%;
+}
+.table{
+    font-weight: bold;
+    text-align: center;
+    height: fit-content;
+    padding: 20px;
+}
+.account-card{
+    padding: 10px;
+    margin: 20px;
+}
+.calculation-div{
+display: inline-block;
+margin-bottom: 10%;
+margin-top: 1%;
+}
+.transactions-details{
+    background-color: #566822;
+    color: white;
+    display: inline-block;
+margin-bottom: 10%;
+margin-top: 5%;
+justify-content: center;
+}
+tr, td {
+    padding: 15px;
+  }
+  .employee-dash2{
+    color: white;
+    margin-left: 70px;
+    text-align: center;
+    height: 100%;
+  }
+  #input{
+    max-width: 190px;
+    font-weight: bold;
+    color: black;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.651);
+    border-radius: 50px;
+}
+#input:focus {
+    color: black;
+    font-weight: bold;
+    outline-color: rgb(0, 0, 0);
+    box-shadow: -3px -3px 25px rgb(0, 0, 0);
+    transition: .1s;
+    transition-property: box-shadow;
+  }
